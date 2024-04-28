@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently working on: **HTML | CSS | Bootstrap | React | Python projects**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning: **TypeScript**
 
-- 🌱 I’m planning to learn in the future **Node.js |Express.js | Next.js | Three.js**
+- 🌱 I’m planning to learn in the future: **Node.js |Express.js | Next.js | Three.js**
 
 - ⚡ Fun fact: **I love memes**
 
