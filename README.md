@@ -3,8 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zsolt270&label=Profile%20views&color=0e75b6&style=flat" alt="zsolt270" /> </p>
 
-![hamster-meme](https://github.com/zsolt270/zsolt270/assets/116660517/04856cbb-1d6d-404f-8e2c-58f4ae8ad557)
-
+<p align="center">
+  <img src="demo.gif" alt="animated" />
+</p>
 
 - :neckbeard: I’m currently working on: **HTML | CSS | Bootstrap | React | Python**
 
