@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zsolt270&label=Profile%20views&color=0e75b6&style=flat" alt="zsolt270" /> </p>
 
- <div align="center" > ![hamster-meme](https://github.com/zsolt270/zsolt270/assets/116660517/60e36d6f-8042-4c1c-97d1-f2fb7cdc0190) </div>
+ <p align="center" > ![hamster-meme](https://github.com/zsolt270/zsolt270/assets/116660517/60e36d6f-8042-4c1c-97d1-f2fb7cdc0190) </p>
 
 - :neckbeard: I’m currently working on: **HTML | CSS | Bootstrap | React | Python**
 
