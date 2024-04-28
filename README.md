@@ -2,10 +2,11 @@
 <h3 align="center">I'm currently looking for a job as a software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zsolt270&label=Profile%20views&color=0e75b6&style=flat" alt="zsolt270" /> </p>
+- 🔭 I’m currently working on: HTML | CSS | Bootstrap | React | Python projects
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 🌱 I’m planning to learn in the future **Node.js, Express.js, Next.js, Three.js**
+- 🌱 I’m planning to learn in the future **Node.js |Express.js | Next.js | Three.js**
 
 - ⚡ Fun fact **I love memes**
 
