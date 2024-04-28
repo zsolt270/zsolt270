@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
+- - 🌱 I’m planning to learn in the future **Node.js, Express.js, Next.js, Three.js**
+
 - ⚡ Fun fact **I love memes**
 
 <h3 align="left">Connect with me:</h3>
