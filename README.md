@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zsolt</h1>
-<p align="center">
-  <img src="hamster-meme.gif" alt="animated" />
-</p>
+
 <h3 align="center">I'm currently looking for a job as a junior software engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zsolt270&label=Profile%20views&color=0e75b6&style=flat" alt="zsolt270" /> </p>
 
-
+<p align="center">
+  <img src="hamster-meme.gif" alt="animated" />
+</p>
 
 - :neckbeard: I’m currently working on: **HTML | CSS | Bootstrap | React | Python**
 
