@@ -2,6 +2,7 @@
 <h3 align="center">I'm currently looking for a job as a software engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zsolt270&label=Profile%20views&color=0e75b6&style=flat" alt="zsolt270" /> </p>
+</br>
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
