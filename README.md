@@ -3,9 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zsolt270&label=Profile%20views&color=0e75b6&style=flat" alt="zsolt270" /> </p>
 
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
-</div>
+![facetime-hamster](https://github.com/zsolt270/zsolt270/assets/116660517/d432de8c-f53f-46d5-b6cb-ee3f0fae2901)
 
 - :neckbeard: I’m currently working on: **HTML | CSS | Bootstrap | React | Python**
 
