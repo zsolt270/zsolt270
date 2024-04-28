@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zsolt270&label=Profile%20views&color=0e75b6&style=flat" alt="zsolt270" /> </p>
 
-- 🌱 I’m currently working on: **HTML | CSS | Bootstrap | React | Python**
+- :neckbeard: I’m currently working on: **HTML | CSS | Bootstrap | React | Python**
 
-- 🌱 I’m currently learning: **TypeScript**
+- :pencil: I’m currently learning: **TypeScript**
 
-- 🌱 I’m planning to learn in the future: **Node.js | Express.js | Next.js | Three.js**
+- :eyes: I’m planning to learn in the future: **Node.js | Express.js | Next.js | Three.js**
 
-- ⚡ Fun fact: **I love memes**
+- :trollface: Fun fact: **I love memes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
