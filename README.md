@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zsolt270&label=Profile%20views&color=0e75b6&style=flat" alt="zsolt270" /> </p>
 
 <p align="center">
-  <img src="demo.gif" alt="animated" />
+  <img src="hamster-meme.gif" alt="animated" />
 </p>
 
 - :neckbeard: I’m currently working on: **HTML | CSS | Bootstrap | React | Python**
