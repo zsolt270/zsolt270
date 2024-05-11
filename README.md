@@ -12,7 +12,7 @@
 
 - :pencil: I’m currently learning: **TypeScript**
 
-- :eyes: I’m planning to learn in the future: **Node.js | Express.js | Next.js | Three.js**
+- :eyes: I’m planning to learn: **Node.js | Express.js | Next.js | Three.js**
 
 - :trollface: Fun fact: **I love memes**
 
