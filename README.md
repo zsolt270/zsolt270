@@ -6,7 +6,7 @@
   <img src="hamster-meme.gif" alt="animated" />
 </p>
 
-- :neckbeard: I’m currently working on: **HTML | CSS | Bootstrap | React | Python**
+- :neckbeard: I’m currently working on: **HTML | CSS | Bootstrap | JS | React**
 
 - :pencil: I’m currently learning: **TypeScript**
 
