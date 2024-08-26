@@ -32,5 +32,5 @@
 </p>
 
 <h3 align="left">My Portfolio:</h3>
-![Alt text](lightmodePortfolio.png)
+![Alt text](./lightmodePortfolio.png)
 
