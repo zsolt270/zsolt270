@@ -31,6 +31,6 @@
 <a href="https://www.linkedin.com/in/zsolt-balogh-5980122b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zsoltbalogh-junior" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Portfolio:</h3>
-[<img src="./lightmodePortfolio.png" />](https://zsolt270.github.io/Portfolio/)
+<h3 align="left"><a href="https://zsolt270.github.io/Portfolio/">For my Portfolio Click Here</a></h3>
+<img src="./lightmodePortfolio.png" />
 
