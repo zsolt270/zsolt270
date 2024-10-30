@@ -9,7 +9,7 @@
 
  :neckbeard: I’m currently working with: **HTML | CSS | Bootstrap | React | TS | Node.js | Express.js**
 
- :pencil: I’m currently learning: ** Node.js | Express.js**
+ :pencil: I’m currently learning: **Node.js | Express.js**
 
  :eyes: I’m planning to learn: **Three.js | Next.js**
 
