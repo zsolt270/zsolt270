@@ -7,9 +7,9 @@
 
 <h3 align="left">I mainly do web based project because of my interest in web development.</h3>
 
- :neckbeard: I’m currently working with: **HTML | CSS | Bootstrap | React | TS | Node.js | Express.js**
+ :neckbeard: I’m currently working with: **HTML | CSS | Bootstrap/TailWind CSS | React | TS | PHP | Laravel**
 
- :pencil: I’m currently learning: **Node.js | Express.js**
+ <!-- :pencil: I’m currently learning: **Laravel** -->
 
  :eyes: I’m planning to learn: **Three.js | Next.js**
 
